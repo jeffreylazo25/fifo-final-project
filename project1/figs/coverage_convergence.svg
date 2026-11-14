@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500">
+<rect width="100%" height="100%" fill="white"/>
+<text x="400" y="30" text-anchor="middle" font-size="20">FIFO Functional Coverage Convergence</text>
+<line x1="80" y1="430.0" x2="760" y2="430.0" stroke="#dddddd"/>
+<text x="65" y="435.0" text-anchor="end" font-size="13">0%</text>
+<line x1="80" y1="356.0" x2="760" y2="356.0" stroke="#dddddd"/>
+<text x="65" y="361.0" text-anchor="end" font-size="13">20%</text>
+<line x1="80" y1="282.0" x2="760" y2="282.0" stroke="#dddddd"/>
+<text x="65" y="287.0" text-anchor="end" font-size="13">40%</text>
+<line x1="80" y1="208.0" x2="760" y2="208.0" stroke="#dddddd"/>
+<text x="65" y="213.0" text-anchor="end" font-size="13">60%</text>
+<line x1="80" y1="134.0" x2="760" y2="134.0" stroke="#dddddd"/>
+<text x="65" y="139.0" text-anchor="end" font-size="13">80%</text>
+<line x1="80" y1="60.0" x2="760" y2="60.0" stroke="#dddddd"/>
+<text x="65" y="65.0" text-anchor="end" font-size="13">100%</text>
+<text x="80.0" y="455" text-anchor="middle" font-size="13">0</text>
+<text x="193.33333333333331" y="455" text-anchor="middle" font-size="13">500</text>
+<text x="306.66666666666663" y="455" text-anchor="middle" font-size="13">1000</text>
+<text x="420.0" y="455" text-anchor="middle" font-size="13">1500</text>
+<text x="533.3333333333333" y="455" text-anchor="middle" font-size="13">2000</text>
+<text x="646.6666666666667" y="455" text-anchor="middle" font-size="13">2500</text>
+<text x="760.0" y="455" text-anchor="middle" font-size="13">3000</text>
+<line x1="80" y1="60" x2="80" y2="430" stroke="black"/>
+<line x1="80" y1="430" x2="760" y2="430" stroke="black"/>
+<polyline points="102.7,171.0 125.3,171.0 148.0,97.0 170.7,97.0 193.3,97.0 216.0,97.0 238.7,97.0 261.3,97.0 284.0,97.0 306.7,97.0 329.3,78.5 352.0,78.5 374.7,78.5 397.3,78.5 420.0,78.5 442.7,78.5 465.3,78.5 488.0,78.5 510.7,78.5 533.3,60.0 556.0,60.0 578.7,60.0 601.3,60.0 624.0,60.0 646.7,60.0 669.3,60.0 692.0,60.0 714.7,60.0 737.3,60.0 760.0,60.0" fill="none" stroke="#2563eb" stroke-width="3"/>
+<circle cx="102.7" cy="171.0" r="3" fill="#2563eb"/>
+<circle cx="125.3" cy="171.0" r="3" fill="#2563eb"/>
+<circle cx="148.0" cy="97.0" r="3" fill="#2563eb"/>
+<circle cx="170.7" cy="97.0" r="3" fill="#2563eb"/>
+<circle cx="193.3" cy="97.0" r="3" fill="#2563eb"/>
+<circle cx="216.0" cy="97.0" r="3" fill="#2563eb"/>
+<circle cx="238.7" cy="97.0" r="3" fill="#2563eb"/>
+<circle cx="261.3" cy="97.0" r="3" fill="#2563eb"/>
+<circle cx="284.0" cy="97.0" r="3" fill="#2563eb"/>
+<circle cx="306.7" cy="97.0" r="3" fill="#2563eb"/>
+<circle cx="329.3" cy="78.5" r="3" fill="#2563eb"/>
+<circle cx="352.0" cy="78.5" r="3" fill="#2563eb"/>
+<circle cx="374.7" cy="78.5" r="3" fill="#2563eb"/>
+<circle cx="397.3" cy="78.5" r="3" fill="#2563eb"/>
+<circle cx="420.0" cy="78.5" r="3" fill="#2563eb"/>
+<circle cx="442.7" cy="78.5" r="3" fill="#2563eb"/>
+<circle cx="465.3" cy="78.5" r="3" fill="#2563eb"/>
+<circle cx="488.0" cy="78.5" r="3" fill="#2563eb"/>
+<circle cx="510.7" cy="78.5" r="3" fill="#2563eb"/>
+<circle cx="533.3" cy="60.0" r="3" fill="#2563eb"/>
+<circle cx="556.0" cy="60.0" r="3" fill="#2563eb"/>
+<circle cx="578.7" cy="60.0" r="3" fill="#2563eb"/>
+<circle cx="601.3" cy="60.0" r="3" fill="#2563eb"/>
+<circle cx="624.0" cy="60.0" r="3" fill="#2563eb"/>
+<circle cx="646.7" cy="60.0" r="3" fill="#2563eb"/>
+<circle cx="669.3" cy="60.0" r="3" fill="#2563eb"/>
+<circle cx="692.0" cy="60.0" r="3" fill="#2563eb"/>
+<circle cx="714.7" cy="60.0" r="3" fill="#2563eb"/>
+<circle cx="737.3" cy="60.0" r="3" fill="#2563eb"/>
+<circle cx="760.0" cy="60.0" r="3" fill="#2563eb"/>
+<text x="400" y="485" text-anchor="middle" font-size="15">Number of Transactions</text>
+<text x="18" y="250" text-anchor="middle" font-size="15" transform="rotate(-90 18 250)">Cross Coverage (%)</text>
+</svg>
